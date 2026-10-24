@@ -26,8 +26,8 @@ extensions.configure<ApplicationExtension> {
         applicationId = "com.example.audora"
         minSdk = 26
         targetSdk = 36
-        versionCode = 71
-        versionName = "8.0.0 build#1158"
+        versionCode = 72
+        versionName = "8.0.0 build#1159"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
